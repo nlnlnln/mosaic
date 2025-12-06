@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\учеба\\практика 24-6\\mosaic\\mosaic.Tests\\mosaic.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\учеба\\практика 24-6\\mosaic\\mosaic.Tests\\mosaic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\учеба\\практика 24-6\\mosaic\\mosaic.Tests\\mosaic.Tests.csproj",
+        "projectName": "mosaic.Tests",
+        "projectPath": "D:\\учеба\\практика 24-6\\mosaic\\mosaic.Tests\\mosaic.Tests.csproj",
+        "packagesPath": "C:\\Users\\uliya\\.nuget\\packages\\",
+        "outputPath": "D:\\учеба\\практика 24-6\\mosaic\\mosaic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\uliya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\учеба\\практика 24-6\\mosaic\\mosaic\\mosaic.csproj": {
+                "projectPath": "D:\\учеба\\практика 24-6\\mosaic\\mosaic\\mosaic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\учеба\\практика 24-6\\mosaic\\mosaic\\mosaic.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\учеба\\практика 24-6\\mosaic\\mosaic\\mosaic.csproj",
+        "projectName": "mosaic",
+        "projectPath": "D:\\учеба\\практика 24-6\\mosaic\\mosaic\\mosaic.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
